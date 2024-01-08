@@ -54,6 +54,6 @@ Adjust the hyperparameters, such as the number of nodes in the hidden layer, the
 
 ## Acknowledgments
 
-This work is based on a script authored by [Junaid Ahmed]. If you find this code useful, please consider giving credit to the original author.
+This work is based on a script authored by Junaid Ahmed. If you find this code useful, please consider giving credit to the original author.
 ```bash
 pip install numpy pandas scikit-learn keras
